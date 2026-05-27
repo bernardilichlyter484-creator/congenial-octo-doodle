@@ -1,2 +1,2 @@
 # congenial-octo-doodle
-中共
+中共.txt
